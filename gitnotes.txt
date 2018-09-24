@@ -1,0 +1,14 @@
+- git is a version control system
+- git and github are 2 different things
+-  multiple versions of the same app
+- git can also be used as a backup system because we can always revert to a previous version
+- git created by linus t (creator of linux )
+- cd !$ will cd into the last folder you created 
+- init = initialize ( you have to be in the folder that you want to start tracking files) 
+- . and .. and .git are pointers to the current and parent directory
+- repository = a collection of files aka repo
+- git status = tells you the status of your repo
+- untracked files = git saying, "I know that this file exists but I am not tracking them"
+- in order to add a file to your station area, you run git add 
+- a commit = a snapshot of your app; commit is a version of your entire application, a copy of your entire application
+- git on your computer, github on the internet

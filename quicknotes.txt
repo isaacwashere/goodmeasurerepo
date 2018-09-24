@@ -1,0 +1,12 @@
+- ls -a will show you other files, specifically hidden files 
+- there are certain files that do not show up in the GUI they are normally used for config 
+- DS_Store keeps track of configs
+- DS_Store files are hidden but will be sent when you send files from finder or other apps that are not from the command lin
+- ls -al 
+- 1st Group - what it is, file or direct, d is dir, dash is a file
+- 2nd Group - next 9 values are permissions, can or can't be edited  what the rwx, read write execute , 1st is user, 2nd, group and 3rd is global permissions 
+	- can create user groups, every admin belongs to this group and can have certain permissions; if another user belonged to the group they would inherit those same permissions
+	- Global is any person on the computer 
+	- need to know how to change your own perm or group permissions 
+	- 
+
